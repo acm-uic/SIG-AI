@@ -1,5 +1,5 @@
 print("These are the names of fans of Yashi Shandilya.")
-print("Samuel Stuckey")
+
 print("Shaurya Iyer")
 print("Rahul Gowda")
 print("Alex Stanson")
@@ -8,7 +8,7 @@ print("Hafsah Khan")
 print("Nathan Morabito")
 print("Brian Wilk")
 print("Aaron Exline")
-print("Mohan Srinivasula")
+
 print("Michael Cao")
 print("Markus Perez")
 print("Bhagyesh Sagole")
