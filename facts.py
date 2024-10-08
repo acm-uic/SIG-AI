@@ -8,7 +8,7 @@ print("Hafsah Khan")
 print("Nathan Morabito")
 print("Brian Wilk")
 print("Aaron Exline")
-print("Mohan Srinivasula")
+
 print("Michael Cao")
 print("Markus Perez")
 print("Bhagyesh Sagole")
